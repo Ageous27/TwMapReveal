@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: TwMapReveal
+## Notes: Reveals unexplored areas on the world map.
+## Author: Codex
+## Version: 1.0.0
+## SavedVariables: TwMapRevealDB
+
+MapData.lua
+TwMapReveal.lua
