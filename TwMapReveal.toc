@@ -2,8 +2,9 @@
 ## Title: TwMapReveal
 ## Notes: Reveals unexplored areas on the world map.
 ## Author: Codex
-## Version: 1.0.0
+## Version: 1.1.0
 ## SavedVariables: TwMapRevealDB
 
 MapData.lua
+CalibrationData.lua
 TwMapReveal.lua
